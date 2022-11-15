@@ -1,9 +1,18 @@
+## A Benchmark and Dataset for Post-OCR text correction in Sanskrit
+
+> [A Benchmark and Dataset for Post-OCR text correction in Sanskrit]()  
+> Ayush Maheshwari, Nikhil Singh, Amrith Krishna and Ganesh Ramakrishnan
+> Findings of EMNLP 2022
+
 ## Post-edited data
-- Devanagari-data folder contains test and validation split of manually post-edited OCR data
-- Transliterated-data folder contains test and validation split of manually post-edited OCR data in SLP1 format
+- *_devanagari.csv refers to train, test and validation split of manually post-edited OCR data
+- ood-test.csv refers to out-of-domain test set consisting of 500 sentences as described in Section 4.1 of the paper.
+### dev-transliterate-scripts/ 
+- contains scripts to transliterate words from from SLP1 to Dev and vice-versa
+## OCR images and their annotation
+- ocr-data/ folder contains complete test set of 500 images and their corresponding groundtruth. 
 
-## OCR images and its annotation
-- ocr-data folder contains few sample images and their corresponding groundtruth from the complete test set of 500 images.
+### Citation:
+```bibtex
 
-##
-- Complete dataset both post-edited and OCR images will be uploaded after acceptance.
+```
