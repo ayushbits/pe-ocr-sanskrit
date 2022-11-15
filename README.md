@@ -15,6 +15,8 @@
 - GG refers to Grahalaghava of Ganesh Daivajna
 - GOS refers to Goladhyaya
 
+### Training Scripts
+- Training scripts are present in the train-scripts directory
 
 ### Citation:
 ```bibtex
