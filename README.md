@@ -1,6 +1,6 @@
 ## A Benchmark and Dataset for Post-OCR text correction in Sanskrit
 
-> [A Benchmark and Dataset for Post-OCR text correction in Sanskrit]()  
+> [A Benchmark and Dataset for Post-OCR text correction in Sanskrit](http://arxiv.org/abs/2211.07980)  
 > Ayush Maheshwari, Nikhil Singh, Amrith Krishna and Ganesh Ramakrishnan                    
 > Findings of EMNLP 2022
 
@@ -20,5 +20,12 @@
 
 ### Citation:
 ```bibtex
-
+@misc{https://doi.org/10.48550/arxiv.2211.07980,
+  doi = {10.48550/ARXIV.2211.07980},
+  url = {https://arxiv.org/abs/2211.07980},
+  author = {Maheshwari, Ayush and Singh, Nikhil and Krishna, Amrith and Ramakrishnan, Ganesh},  
+  title = {A Benchmark and Dataset for Post-OCR text correction in Sanskrit},
+  publisher = {arXiv},
+  year = {2022}
+}
 ```
