@@ -18,6 +18,13 @@
 ### Training Scripts
 - Training scripts are present in the train-scripts directory
 
+
+### Calculate CER, WER
+
+- preds/ folder contains predictions and GT for the 500 sentences in out-of-domain test set
+-  To calculate, run `pip install fastwer`
+- python word_count_cer.py <cer/wer>
+
 ### Citation:
 ```bibtex
 @misc{https://doi.org/10.48550/arxiv.2211.07980,
