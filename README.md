@@ -27,12 +27,11 @@
 
 ### Citation:
 ```bibtex
-@misc{https://doi.org/10.48550/arxiv.2211.07980,
-  doi = {10.48550/ARXIV.2211.07980},
-  url = {https://arxiv.org/abs/2211.07980},
-  author = {Maheshwari, Ayush and Singh, Nikhil and Krishna, Amrith and Ramakrishnan, Ganesh},  
-  title = {A Benchmark and Dataset for Post-OCR text correction in Sanskrit},
-  publisher = {arXiv},
-  year = {2022}
+@inproceedings{maheshwari2022benchmark,
+  title={A Benchmark and Dataset for Post-OCR text correction in Sanskrit},
+  author={Maheshwari, Ayush and Singh, Nikhil and Krishna, Amrith and Ramakrishnan, Ganesh},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2022},
+  pages={6258--6265},
+  year={2022}
 }
 ```
